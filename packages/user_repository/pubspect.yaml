@@ -1,5 +1,5 @@
-name: yogaflutter
-description: "A new Flutter project."
+name: user_repository
+description: "The repo that handles user"
 # The following line prevents the packages from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
